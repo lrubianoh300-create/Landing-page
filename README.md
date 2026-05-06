@@ -1,4 +1,4 @@
-Nombre Keiko Valeria Cubillos
+Nombre Sofia Rubiano
 Seccion 1006
 Materia Informatica
 Profesor Frank González
