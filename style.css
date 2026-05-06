@@ -5,6 +5,23 @@
     width: 100%;
     height: 500px;
 }
+#titulo {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+}
+#subtitulo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+#Descripcion{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+}
 #section1{
     margin-top: 20px;
     margin-bottom: 20px;
@@ -12,14 +29,30 @@
     justify-content: space-evenly;
     gap: 10px;
 }
-#card1,#card2,#card3{
+#card1{
+    width: 350px;
+    height: 350px;
+    background-image: url(./IMG/carta1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#card2{
+    width: 350px;
+    height: 350px;
+    background-image: url(./IMG/carta2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#card3{
     width: 300px;
-    height: 400px;
-    background-color: lightcoral;
+    height: 350px;
+    background-image: url(./IMG/carta3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 footer{
-    background-color: cyan;
+    background-color:darkviolet;
     margin-top: 40px;
     width: 100%;
     height: 400px;
